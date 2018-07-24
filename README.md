@@ -11,6 +11,7 @@ Monitore a posição atual da tartaruga todas as vezes e se a caneta está atual
 inicie na posição (0, 0) do chão com sua caneta para cima. O conjunto de comandos de tartaruga que seu aplicativo deve processar é mostrado na Figura 7.29.
 
 Comando Significado
+
 1       Caneta para cima
 2       Caneta para baixo
 3       Vira para a direita
